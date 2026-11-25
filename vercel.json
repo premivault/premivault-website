@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/premivault-2.html" },
+    { "source": "/(.*)", "destination": "/premivault-2.html" }
+  ]
+}
